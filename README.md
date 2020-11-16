@@ -1,4 +1,4 @@
-<div style="text-align:center"><h2><img src="https://user-images.githubusercontent.com/49023326/98449328-3f290b00-2165-11eb-8343-361e8bfdea14.gif"/> <img src="https://user-images.githubusercontent.com/49023326/98449328-3f290b00-2165-11eb-8343-361e8bfdea14.gif"/> <img src="https://user-images.githubusercontent.com/49023326/98449328-3f290b00-2165-11eb-8343-361e8bfdea14.gif"/> <img src="https://user-images.githubusercontent.com/49023326/98449328-3f290b00-2165-11eb-8343-361e8bfdea14.gif"/> <img src="https://user-images.githubusercontent.com/49023326/98449328-3f290b00-2165-11eb-8343-361e8bfdea14.gif"/> </h2></div>
+<div style="text-align:center"><h2><img src="https://user-images.githubusercontent.com/49023326/98449328-3f290b00-2165-11eb-8343-361e8bfdea14.gif"/></h2></div>
 
 * * *
 <p align="center">
