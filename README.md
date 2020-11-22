@@ -1,5 +1,5 @@
 
-![Irfa's github stats](https://github-readme-stats.vercel.app/api?username=irfaardy&bg_color=70,904e95,e96443&title_color=fff&text_color=fff&count_private=true)
+[![Irfa's github stats](https://github-readme-stats.vercel.app/api?username=irfaardy&bg_color=70,904e95,e96443&title_color=fff&text_color=fff&count_private=true)](https://github.com/irfaardy)
 
 
 
