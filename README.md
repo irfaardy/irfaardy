@@ -1,12 +1,12 @@
 
-[![Irfa's github stats](https://github-readme-stats.vercel.app/api?username=irfaardy&&theme=graywhite&count_private=true)](https://github.com/irfaardy)
+[![Irfa's github stats](https://github-readme-stats.vercel.app/api?username=irfaardy&theme=graywhite&count_private=true)](https://github.com/irfaardy)
 
 
 
 * * *
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfaardy&show_icons=true)](https://github.com/irfaardy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfaardy&theme=graywhite&show_icons=true)](https://github.com/irfaardy)
   
   </p>
 * * *
