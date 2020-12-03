@@ -11,4 +11,4 @@
   </p>
 * * *
 ___
-<a href="https://wakatime.com"><img width="80%" src="https://wakatime.com/share/@irfaardy/6e4abe82-a625-4ce8-8ae4-a3ea0d98eba9.svg" /></a>
+<a href="https://wakatime.com"><img width="80%" src="https://wakatime.com/share/@irfaardy/5dd1d09f-cb0b-4e41-9bf4-4d744356830c.svg" /></a>
