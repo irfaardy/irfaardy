@@ -13,3 +13,4 @@
 
 [![Irfa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irfaardy)](https://github.com/anuraghazra/github-readme-stats)
 ___
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@irfaardy/1f288d05-0778-46ec-af13-623f42661e76.png" /></a>
