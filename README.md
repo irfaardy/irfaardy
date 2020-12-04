@@ -12,3 +12,4 @@
 * * *
 ___
 <a href="https://wakatime.com"><img width="80%" src="https://wakatime.com/share/@irfaardy/5dd1d09f-cb0b-4e41-9bf4-4d744356830c.svg" /></a>
+<a href="https://wakatime.com"><img width="80%" src="https://wakatime.com/share/@irfaardy/c5f7f4da-def0-4179-a88c-26f7089a093a.svg" /></a>
