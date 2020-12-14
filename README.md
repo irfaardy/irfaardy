@@ -1,4 +1,5 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S52P7SN)
+* * *
 
 [![Irfa's github stats](https://github-readme-stats.vercel.app/api?username=irfaardy&theme=graywhite&count_private=true)](https://github.com/irfaardy)
 
