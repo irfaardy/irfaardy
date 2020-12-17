@@ -1,4 +1,4 @@
-<a href="https://github.com/irfaardy/"><img src="https://img.shields.io/static/v1?label=irfaardy&message=Hello%20there%F0%9F%91%8B&color=lightblue"></a> <br>
+<a href="https://github.com/irfaardy/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=irfaardy&message=Hello%20there%F0%9F%91%8B&color=lightblue"></a> <br>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S52P7SN)
 * * *
 
