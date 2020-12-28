@@ -9,11 +9,11 @@
 * * *
 <p align="center">
   
+<a href="https://wakatime.com"><img width="60%" src="https://wakatime.com/share/@irfaardy/c5f7f4da-def0-4179-a88c-26f7089a093a.svg" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfaardy&theme=graywhite&show_icons=true)](https://github.com/irfaardy)
   
   </p>
 * * *
 ___
 
-<a href="https://wakatime.com"><img width="60%" src="https://wakatime.com/share/@irfaardy/c5f7f4da-def0-4179-a88c-26f7089a093a.svg" /></a>
 * * *
