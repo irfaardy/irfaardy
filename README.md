@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfaardy&theme=graywhite&show_icons=true)](https://github.com/irfaardy)
   
   </p>
-* * *
-___
+
   </div>
+  <hr>
 
