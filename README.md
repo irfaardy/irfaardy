@@ -5,7 +5,7 @@
  <h1>Hi 👋🏼 I'm <b>Irfa</b></h1>
   <strong><img src="https://img.shields.io/badge/-%F0%9F%92%BB%20WEB%20DEVELOPER-lightblue?style=for-the-badge"></strong>
   <p>My name is Irfa Ardiansyah, I come from Indonesia 🇮🇩 </strong>
-
+<hr>
 
 
 [![Irfa's github stats](https://github-readme-stats.vercel.app/api?username=irfaardy&theme=graywhite&count_private=true)](https://github.com/irfaardy)
