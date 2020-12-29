@@ -2,9 +2,7 @@
 <div align="center">
   <img width="300px" src="https://user-images.githubusercontent.com/49023326/103261690-fa875680-49d4-11eb-882f-223d4d7231dd.gif"><br>
 
- 
-█░█ █ ░   █ ▀ █▀▄▀█   █ █▀█ █▀▀ ▄▀█
-█▀█ █ █   █ ░ █░▀░█   █ █▀▄ █▀░ █▀█
+<h2>𝙷𝚒 👋🏼 𝙸'𝚖 𝙸𝚛𝚏𝚊</h2>
   <br><strong><img src="https://img.shields.io/badge/-%F0%9F%92%BB%20WEB%20DEVELOPER-lightblue?style=for-the-badge"></strong>
   <p>My name is Irfa Ardiansyah, I come from Indonesia 🇮🇩 </strong>
 <hr>
