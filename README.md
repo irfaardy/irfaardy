@@ -18,8 +18,8 @@
 <a href="https://wakatime.com/@irfaardy"><img width="70%" src="https://wakatime.com/share/@irfaardy/c5f7f4da-def0-4179-a88c-26f7089a093a.svg" /></a>
 
   </p>
-BTC Wallet
-<img src="https://user-images.githubusercontent.com/49023326/108444908-10572080-728e-11eb-8bb6-fdbdf84ed4b8.jpg" width="120px"><br>
+<h3>BTC Wallet</h3>
+<img src="https://user-images.githubusercontent.com/49023326/108444908-10572080-728e-11eb-8bb6-fdbdf84ed4b8.jpg" width="180px"><br>
 1tHHZ4FNWuwNnnC18WHVQBqwwXZwzc3TT
   </div>
   <hr>
