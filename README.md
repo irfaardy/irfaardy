@@ -19,7 +19,7 @@
 
   </p>
 BTC Wallet
-![Screenshot_2021-02-19-08-38-33-75](https://user-images.githubusercontent.com/49023326/108444908-10572080-728e-11eb-8bb6-fdbdf84ed4b8.jpg)
+<img src="https://user-images.githubusercontent.com/49023326/108444908-10572080-728e-11eb-8bb6-fdbdf84ed4b8.jpg" width="120px"><br>
 1tHHZ4FNWuwNnnC18WHVQBqwwXZwzc3TT
   </div>
   <hr>
