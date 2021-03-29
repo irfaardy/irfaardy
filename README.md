@@ -1,6 +1,5 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S52P7SN)
-
-<hr>
+<br>
 <div align="center">
   <img width="300px" src="https://user-images.githubusercontent.com/49023326/103261690-fa875680-49d4-11eb-882f-223d4d7231dd.gif"><br>
 
