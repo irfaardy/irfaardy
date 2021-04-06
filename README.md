@@ -16,7 +16,6 @@
   <a href="https://www.credly.com/badges/04edee0a-63e2-4990-b475-074a6f5451d2/public_url">
       <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="80px">
   </a>
-  https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png
 
 [![Irfa's github stats](https://github-readme-stats.vercel.app/api?username=irfaardy&theme=graywhite&count_private=true)](https://github.com/irfaardy)
 
