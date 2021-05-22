@@ -18,8 +18,6 @@
   
 [![Irfa's github stats](https://github-readme-stats.vercel.app/api?username=irfaardy&theme=graywhite&count_private=true)](https://github.com/irfaardy)
 
-
-
 * * *
 <p align="center">
   
