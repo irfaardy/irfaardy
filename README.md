@@ -22,7 +22,7 @@
 <p align="center">
   
 <a href="https://wakatime.com/@irfaardy"><img width="70%" src="https://wakatime.com/share/@irfaardy/c5f7f4da-def0-4179-a88c-26f7089a093a.svg" /></a>
-  </p>
+
   <h3>Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,4 +43,4 @@
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/49023326/127584310-197e1a9c-e0e8-4fd0-b536-72a56e8e39a0.png" />
   
 <br />
-<br />
+<br />  </p>
