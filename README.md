@@ -7,6 +7,8 @@
   <p><h3>💬 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘐𝘳𝘧𝘢 𝘈𝘳𝘥𝘪𝘢𝘯𝘴𝘺𝘢𝘩, 𝘐 𝘤𝘰𝘮𝘦 𝘧𝘳𝘰𝘮 𝘐𝘯𝘥𝘰𝘯𝘦𝘴𝘪𝘢 🇮🇩</h3> </strong>
 <hr>
 <p align="center">
+  
+  <h3>Languages and Tools:</h3>
 <img  alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  <img  alt="Sublime Text" width="27px" src="https://user-images.githubusercontent.com/49023326/127584552-81152c45-51e0-4fdb-aa86-6847c9f739fc.png" />
 <img  alt="HTML5" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,6 +49,5 @@
   
 <a href="https://wakatime.com/@irfaardy"><img width="70%" src="https://wakatime.com/share/@irfaardy/c5f7f4da-def0-4179-a88c-26f7089a093a.svg" /></a>
 
-  <h3>Languages and Tools:</h3>
   </p?
 
