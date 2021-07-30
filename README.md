@@ -44,6 +44,6 @@
 <img  alt="Laravel" width="35px" src="https://user-images.githubusercontent.com/49023326/127584189-ff1a9f8e-2957-4ec0-8594-33312df4c01c.png" />
 <img  alt="Lumen" width="35px" src="https://user-images.githubusercontent.com/49023326/127584693-94dc0cf0-e1d7-4695-b2b4-8c790651cc84.png" />
 <img  alt="Flutter" width="35px" src="https://user-images.githubusercontent.com/49023326/127584310-197e1a9c-e0e8-4fd0-b536-72a56e8e39a0.png" />
- <img  alt="Flutter" width="35px" src="https://user-images.githubusercontent.com/49023326/127584448-d26ac695-4585-4e21-9d18-3cd5fa149787.png" />
+ <img  alt="Bootstrap" width="35px" src="https://user-images.githubusercontent.com/49023326/127584448-d26ac695-4585-4e21-9d18-3cd5fa149787.png" />
 <br />
 <br />  </p>
