@@ -37,6 +37,8 @@
 <img  alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img  alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img  alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img  alt="Postgresql" width="35px" src="https://user-images.githubusercontent.com/49023326/127584853-c18257d7-8631-468a-a928-15c7e877d8d7.png" />
+<img  alt="SQLSERVER" width="35px" src="https://user-images.githubusercontent.com/49023326/127584958-d6ed4d99-e47d-4254-9b4b-73225e7d7623.png" />
 <img  alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img  alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img  alt="Git" width="35px" src="https://user-images.githubusercontent.com/49023326/127584044-d9dd19ef-2caa-40d3-8f2d-44ee6c7d251f.png" />
