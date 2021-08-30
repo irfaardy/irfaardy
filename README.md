@@ -2,6 +2,7 @@
 <br>
 <div align="center">
 
+   <img  title="Sublime Text" width="350px" src="https://user-images.githubusercontent.com/49023326/131361197-5ccb6ff7-8b36-41ed-afdd-146e4643648c.png" />
 <h2>👋 Hello there</h2>
   <br><strong><img src="https://img.shields.io/badge/-%F0%9F%92%BB%20WEB%20DEVELOPER-lightblue?style=for-the-badge"></strong>
   <p><h3>💬 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘐𝘳𝘧𝘢 𝘈𝘳𝘥𝘪𝘢𝘯𝘴𝘺𝘢𝘩, 𝘐 𝘤𝘰𝘮𝘦 𝘧𝘳𝘰𝘮 𝘐𝘯𝘥𝘰𝘯𝘦𝘴𝘪𝘢 🇮🇩</h3> </strong>
