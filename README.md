@@ -33,7 +33,7 @@
 <img  title="Flutter" width="27px" src="https://user-images.githubusercontent.com/49023326/127584310-197e1a9c-e0e8-4fd0-b536-72a56e8e39a0.png" />
 <img  title="Bootstrap" width="27px" src="https://user-images.githubusercontent.com/49023326/127584448-d26ac695-4585-4e21-9d18-3cd5fa149787.png" />
  <img  title="Codeigniter" width="27px" src="https://user-images.githubusercontent.com/49023326/127585114-f8e5f538-f7ea-40b7-aee9-c87827c61502.png" />
- <img  title="Codeigniter" width="27px" src="https://user-images.githubusercontent.com/49023326/160408542-fad72516-51f9-4378-80fa-17d727962517.png" />
+ <img  title="Photoshop" width="27px" src="https://user-images.githubusercontent.com/49023326/160408542-fad72516-51f9-4378-80fa-17d727962517.png" />
 </p>
 <hr>
 <h3>Digital Badges<h3>
