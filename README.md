@@ -1,4 +1,4 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S52P7SN)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/irfaardy)  <img align="center" src="https://gpvc.arturio.dev/irfaardy" /> 
 <br>
 <div align="center">
   
@@ -8,7 +8,21 @@
    <img  title="Jeanne Alter" width="350px" src="https://user-images.githubusercontent.com/49023326/131361197-5ccb6ff7-8b36-41ed-afdd-146e4643648c.png" />
 <hr>
 <p align="center">
+ 
   
+<br/>
+
+<a href="https://github.com/irfaardy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfaardy&show_icons=true&count_private=true" />
+</a>
+<br>
+<a href="https://github.com/irfaardy">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfaardy" />
+</a>
+<br>
+<a href="https://github.com/irfaardy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfaardy&langs_count=6&layout=compact" />
+</a>
   <h3>Languages and Tools:</h3>
 <img  title="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  <img  title="Sublime Text" width="27px" src="https://user-images.githubusercontent.com/49023326/127584552-81152c45-51e0-4fdb-aa86-6847c9f739fc.png" />
