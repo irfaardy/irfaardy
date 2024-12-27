@@ -24,6 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfaardy&langs_count=6&layout=compact" />
 </a>
   <h3>Languages and Tools:</h3>
+  <img  title="Odoo" width="27px" src="https://github.com/user-attachments/assets/df17927f-b381-4704-91b0-f23f9b49721c" />
 <img  title="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  <img  title="Sublime Text" width="27px" src="https://user-images.githubusercontent.com/49023326/127584552-81152c45-51e0-4fdb-aa86-6847c9f739fc.png" />
  <img  title="POSTMAN" width="27px" src="https://user-images.githubusercontent.com/49023326/127585548-05eb8cf0-a91b-4e33-a4a5-6aca5157cfc5.png" />
@@ -46,7 +47,7 @@
 <img  title="Flutter" width="27px" src="https://user-images.githubusercontent.com/49023326/127584310-197e1a9c-e0e8-4fd0-b536-72a56e8e39a0.png" />
 <img  title="Bootstrap" width="27px" src="https://user-images.githubusercontent.com/49023326/127584448-d26ac695-4585-4e21-9d18-3cd5fa149787.png" />
  <img  title="Codeigniter" width="27px" src="https://user-images.githubusercontent.com/49023326/127585114-f8e5f538-f7ea-40b7-aee9-c87827c61502.png" />
- <img  title="Photoshop" width="27px" src="https://user-images.githubusercontent.com/49023326/160408542-fad72516-51f9-4378-80fa-17d727962517.png" />
+ 
  
 </p>
 <hr>
