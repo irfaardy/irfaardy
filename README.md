@@ -23,7 +23,11 @@
 <a href="https://github.com/irfaardy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfaardy&langs_count=6&layout=compact" />
 </a>
+
   <h3>Languages and Tools:</h3>
+
+ <img  title="Pytorch" width="27px" src=" https://github.com/user-attachments/assets/a5603faf-8114-481a-aff7-dfbe63d5e26f" />
+   <img  title="Python" width="27px" src="https://github.com/user-attachments/assets/5c5602e2-c5ae-4b2b-86c2-2e0b688898f2" />
   <img  title="Odoo" width="27px" src="https://github.com/user-attachments/assets/df17927f-b381-4704-91b0-f23f9b49721c" />
 <img  title="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  <img  title="Sublime Text" width="27px" src="https://user-images.githubusercontent.com/49023326/127584552-81152c45-51e0-4fdb-aa86-6847c9f739fc.png" />
